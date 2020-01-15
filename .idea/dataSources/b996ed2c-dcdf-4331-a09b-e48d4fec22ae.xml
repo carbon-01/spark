@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="hive-hadoop102">
+  <database-model serializer="dbm" dbms="SPARK" family-id="SPARK" format-version="4.17">
+    <root id="1">
+      <ServerVersion>2.1</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="default">
+      <Current>1</Current>
+    </schema>
+  </database-model>
+</dataSource>
