@@ -2,898 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce906be-a640-4f37-ae22-9a8112342141" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b996ed2c-dcdf-4331-a09b-e48d4fec22ae.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b996ed2c-dcdf-4331-a09b-e48d4fec22ae/storage_v2/_src_/schema/db1.c4MBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b996ed2c-dcdf-4331-a09b-e48d4fec22ae/storage_v2/_src_/schema/default.QdYTXA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b996ed2c-dcdf-4331-a09b-e48d4fec22ae/storage_v2/_src_/schema/gmall.-3reBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fb1464d0-b12e-4dcb-997d-b3690729d313.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fb1464d0-b12e-4dcb-997d-b3690729d313/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054575000.bk.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054575000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054580000.bk.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054580000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054585000.bk.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054585000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054590000.bk.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054590000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054595000.bk.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/.checkpoint-1579054595000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054575000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054575000.bk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054580000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054580000.bk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054585000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054585000.bk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054590000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054590000.bk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054595000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/checkpoint-1579054595000.bk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ck1/receivedBlockMetadata/log-1579054545027-1579054605027" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/acc/CategoryAcc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/acc/SessionPartitioner.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/app/CalcCategorySessionTop10.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/app/CategoryTopApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/app/PageConversionApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/app/ProjectApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/bean/CategoryCountInfo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/bean/SessionInfo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala/com/atguigu/spark/project/bean/UserVisitAction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala_01/com/atguigu/spark/core/project/acc/CatetoryACC.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala_01/com/atguigu/spark/core/project/app/CaterogyTop10.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala_01/com/atguigu/spark/core/project/app/ProjectApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/src/main/scala_01/com/atguigu/spark/core/project/app/SessionTop10.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/META-INF/spark-core-projeck.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$add$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$add$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$add$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$add$3$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$add$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$merge$1$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC$$anonfun$merge$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/acc/CatetoryACC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$$anonfun$categoryTop10$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/CaterogyTop10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/ProjectApp$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/ProjectApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/ProjectApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$9$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1$$anonfun$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$$anonfun$sessionTop10$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/core/project/app/SessionTop10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$add$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$add$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$add$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$add$3$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$add$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$merge$1$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc$$anonfun$merge$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/CategoryAcc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/acc/SessionPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$12$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$12$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$7$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$calcCategorySessionTop10$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$calcCategorySessionTop10_1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$calcCategorySessionTop10_1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$$anonfun$calcCategorySessionTop10_1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CalcCategorySessionTop10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$$anonfun$statCategoryTop10$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/CategoryTopApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/PageConversionApp$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/PageConversionApp$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/PageConversionApp$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/PageConversionApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/PageConversionApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/ProjectApp$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/ProjectApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/app/ProjectApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/bean/CategoryCountInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/bean/CategoryCountInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/bean/SessionInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/bean/SessionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/bean/UserVisitAction$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/com/atguigu/spark/project/bean/UserVisitAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-projeck/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/acc/ActionAcc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/acc/SessionPartitioner.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/app/PageConversionRade.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/app/ProjectApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/app/SessionTop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/app/catetoryTop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/bean/CategoryCountInfo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/bean/SessionInfo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/src/scala/com/atguigu/spark/core/project/bean/UserVisitAction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$add$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$add$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$add$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$add$3$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$add$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$merge$1$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc$$anonfun$merge$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/ActionAcc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/acc/SessionPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$$anonfun$catetoryTop$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/CatetoryTop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$5$$anonfun$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$5$$anonfun$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$5$$anonfun$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$5$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$$anonfun$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/PageConversionRate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp$$anonfun$main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp$$anonfun$main$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/ProjectApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$5$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$5$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$sessionTop$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$$anonfun$sessionTop$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/app/SessionTop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/bean/CategoryCountInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/bean/CategoryCountInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/bean/SessionInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/bean/SessionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/bean/UserVisitAction$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/com/atguigu/spark/core/project/bean/UserVisitAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-project02/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__io_netty_netty_3_8_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_curator_curator_client_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_curator_curator_framework_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_5_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/spark_core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/Hello.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day01/CreateRDD.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day01/Map.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day01/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day01/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day01/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day01/day01/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day02/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day02/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day02/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day02/Test04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day02/Test05.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day02/Test06.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day03/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day03/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day03/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day04/MapAcc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/src/main/scala/com/atguigu/spark/core/day04/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes.146839432.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/META-INF/spark_core.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/Hello$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/Hello$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/Hello$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/Hello$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/Hello$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/CreateRDD$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/CreateRDD$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/CreateRDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Map$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Map$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test03$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/day01/Test02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/day01/Test02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/day01/Test02$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/day01/Test02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/day01/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day01/day01/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test02$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test03$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test04$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test05$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test05$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test05$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test05$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test06$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test06$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test06$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/Test06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/User$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day02/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/MyPartition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test01$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test03$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/User$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day03/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$add$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$add$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$merge$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$merge$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$merge$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$merge$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$value$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc$$anonfun$value$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/MapAcc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/com/atguigu/spark/core/day04/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_core/target/spark_core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/resources/hive-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/MySum.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test05.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test06.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/Test07.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day01/TestCollect.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day02/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day02/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day02/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day02/Test04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/META-INF/spark_sql.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/Test03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/AgeAgv$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/AgeAgv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/MySum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/MySumAvg$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/MySumAvg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test01$$typecreator1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test04$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test05$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test05$$typecreator1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test05$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test06$$typecreator2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test06$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test07$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test07$$typecreator1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test07$$typecreator2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test07$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/Test07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/TestCollect$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/TestCollect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/User$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/User11$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/User11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/UserAgv$$typecreator2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/UserAgv$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day01/UserAgv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/MyReceiver$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/MyReceiver$$anonfun$onStart$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/MyReceiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test01$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test02$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test03$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test03$$anonfun$main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day02/Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/hive-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark_sql/target/test-classes/META-INF/spark_sql.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/src/main/resources/hive-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/src/main/scala/com/atuguigu/spark/sql/ReMark.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/src/main/scala/com/atuguigu/spark/sql/Sql0830.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/Mark$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/Mark.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$merge$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$merge$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$$anonfun$update$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/ReMark.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/Sql0830$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/com/atuguigu/spark/sql/Sql0830.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/hive-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprk-sql-project/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DebugTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Test/Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Test/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Test/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala11_TestUnitType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_01_Hello.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_Function.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_Function04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_Function2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_Function3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_Ifelse.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Scala_Lazy.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter/Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter02/Scala_ClassTest01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter02/Scala_ClassTest02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter02/Scala_Package.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter02/Scala_View01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/MyTrait.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/Scala_Abstract.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/Scala_Equals.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/Scala_Extends.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/Scala_Simple.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/Scala_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter03/Scala_Tri.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Array.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Map.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Method.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Set.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Test2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_Tuple.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_list.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_mothod02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_mothod03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Scala_test10.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter04/Test_01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Scala_Test04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Test03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Test04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Test05.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/TestTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/Test_Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_Test06.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_Test07.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_caseClass.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_match.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_transform02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_transform03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/chapter05/scala_transform04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DebugTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/scala.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test$$anonfun$Test$Test$$test4$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test$$anonfun$test2$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test01$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test02$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/User$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/User1$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test/User1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestHello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala11_TestUnitType$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala11_TestUnitType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_01_Hello$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_01_Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function04$$anonfun$f2$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function2$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function2$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function2$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function3$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Function3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Ifelse$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Ifelse$$anonfun$main$1$$anonfun$apply$mcV$sp$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Ifelse$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Ifelse$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Ifelse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Lazy$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Lazy$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Lazy$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Scala_Lazy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Test$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Test$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Test$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Test$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/Name/package$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/Name/package.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/Scala_View01$$anonfun$f3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/Scala_View01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/Scala_View01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Info/package$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Info/package.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Scala_ClassTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Scala_ClassTest01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Scala_ClassTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Scala_ClassTest02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/Scala_ClassTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/computer/myComputer/Scala_Scall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/xx/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/xx/yy/Scala_Package$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter02/xx/yy/Scala_Package.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Dog2$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Dog2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/MyApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/MyApp$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/MyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/MyTrait$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/MyTrait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/MyTrait02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Parent21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Person002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Person005$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Person005.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Person100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Person11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Person555.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Abstract$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Abstract$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Abstract.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Equals$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Equals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Extends$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Extends.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Simple$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Simple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Test$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Trait$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Trait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Tri$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Scala_Tri.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Trait21$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Trait21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Trait211$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/Trait211.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/User002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/User100$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/User100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/User11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/User21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/User444.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user111$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user111.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user222$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user222.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user333$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user333.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user666$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user666.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user777$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter03/user777.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Array$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Array$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Map$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03$$anonfun$2$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03$$anonfun$main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Method03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Set$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Set$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$$anonfun$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Tuple$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Tuple$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_Tuple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_list$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_list.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_method02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_method02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_method02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$3$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$main$1$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Scala_test10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$$anonfun$1$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$$anonfun$4$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter04/Test_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Scala_Test04$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Scala_Test04$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Scala_Test04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Scala_Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Student$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$$anonfun$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$$anonfun$3$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03$$anonfun$main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test04$$anonfun$f9$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test04$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test05$$anon$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test05$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/TestTest$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/TestTest$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/TestTest$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/TestTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$5$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$$anonfun$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/Test_Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/User$class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/User20$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/User20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test06$$anonfun$test2$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test06$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test07$$anonfun$com$atguigu$chapter05$scala_Test07$$f$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test07$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test07$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_Test07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$$anonfun$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_caseClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_match$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_match.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform$SubUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform02$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform03$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform04$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/chapter05/scala_transform04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -987,7 +96,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -1087,12 +196,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:hive-hadoop102" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -1143,6 +247,7 @@
       <workItem from="1578809481085" duration="21183000" />
       <workItem from="1578874515061" duration="36198000" />
       <workItem from="1579047816553" duration="9118000" />
+      <workItem from="1579064391563" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1579058906654</created>
@@ -1158,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579059205220</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1579064530664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579064530664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1173,10 +285,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Intentions/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578051161511" />
-    <state x="361" y="71" key="#Notifications" timestamp="1578309419388">
+    <state x="361" y="71" key="#Notifications" timestamp="1579067261618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Notifications/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578309419388" />
+    <state x="361" y="71" key="#Notifications/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067261618" />
     <state x="361" y="71" key="#Project_Structure" timestamp="1578894384813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1228,10 +340,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1578752520257" />
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1579059953690">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1579064635241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579059953690" />
+    <state x="372" y="0" key="CommitChangelistDialog2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064635241" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1578844595973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1241,10 +353,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="127" key="DetectedRootsChooserDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577758489373" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579064174378">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1579067277774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064174378" />
+    <state x="549" y="167" key="FileChooserDialogImpl/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067277774" />
     <state width="1493" height="60" key="GridCell.Tab.0.bottom" timestamp="1579064217771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1298,11 +410,11 @@
     </state>
     <state width="212" height="477" key="HiddenNamespacesPopup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578884469438" />
     <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1578844592382" />
-    <state x="-1319" y="112" key="SettingsEditor" timestamp="1578728897463">
-      <screen x="-1600" y="0" width="1600" height="850" />
+    <state x="270" y="109" key="SettingsEditor" timestamp="1579067172723">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1319" y="112" key="SettingsEditor/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578728897463" />
-    <state x="270" y="109" key="SettingsEditor/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577758368832" />
+    <state x="270" y="109" key="SettingsEditor/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067172723" />
     <state x="270" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578208811252" />
     <state x="491" y="158" width="543" height="524" key="StructurePopup" timestamp="1578844461335">
       <screen x="0" y="0" width="1536" height="824" />
@@ -1313,10 +425,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577492810799" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579063912512">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579067241558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579063912512" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067241558" />
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577095610080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1326,18 +438,22 @@
     </state>
     <state x="-1358" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578276896465" />
     <state x="232" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578310390573" />
-    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579064408369">
+    <state x="636" y="147" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1579067223417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064408369" />
+    <state x="636" y="147" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067223417" />
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579064681953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064681953" />
     <state x="447" y="19" width="856" height="786" key="find.popup" timestamp="1578312957218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="447" y="19" width="856" height="786" key="find.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578312957218" />
-    <state x="491" y="204" key="git4idea.merge.GitPullDialog" timestamp="1579064010794">
+    <state x="491" y="204" key="git4idea.merge.GitPullDialog" timestamp="1579064728210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="491" y="204" key="git4idea.merge.GitPullDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064010794" />
+    <state x="491" y="204" key="git4idea.merge.GitPullDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064728210" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1577259842236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
