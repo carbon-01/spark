@@ -12,6 +12,7 @@ object Test05 {
     ssc.checkpoint(directory = "ck8")
     val sourceStream: ReceiverInputDStream[String] = ssc.socketTextStream("hadoop103", 9999)
     val wordCount: DStream[(String, Int)] = sourceStream.flatMap(_.split("\\W+").map((_, 1)))
+    //使用有状态的转换算子，注意：必须是对kv类型的值进行转换
     wordCount.updateStateByKey((seq: Seq[Int], opt: Option[Int]) => {
       Some(seq.sum + opt.getOrElse(0))
     }).print(100)

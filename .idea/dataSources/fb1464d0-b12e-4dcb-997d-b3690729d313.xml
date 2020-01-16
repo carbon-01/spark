@@ -916,38 +916,49 @@
     </table>
     <table id="231" parent="6" name="t1"/>
     <table id="232" parent="6" name="t2"/>
-    <table id="233" parent="6" name="vreaxin"/>
-    <column id="234" parent="230" name="name">
+    <table id="233" parent="6" name="t3"/>
+    <table id="234" parent="6" name="vreaxin"/>
+    <column id="235" parent="230" name="name">
       <Position>1</Position>
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="235" parent="230" name="age">
+    <column id="236" parent="230" name="age">
       <Position>2</Position>
       <DataType>double|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="236" parent="231" name="name">
+    <column id="237" parent="231" name="name">
       <Position>1</Position>
       <DataType>varchar(20)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="237" parent="232" name="id">
+    <column id="238" parent="232" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="238" parent="232" name="name">
+    <column id="239" parent="232" name="name">
       <Position>2</Position>
       <DataType>varchar(20)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="239" parent="233" name="name">
+    <column id="240" parent="233" name="word">
+      <Position>1</Position>
+      <DataType>text|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="241" parent="233" name="count">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="242" parent="234" name="name">
       <Position>1</Position>
       <DataType>varchar(10)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="240" parent="233" name="age">
+    <column id="243" parent="234" name="age">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>

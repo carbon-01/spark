@@ -9,6 +9,7 @@ object Test01 {
   def createSSC() = {
     val conf: SparkConf = new SparkConf().setMaster("local[*]").setAppName("test01")
     val ssc = new StreamingContext(conf, Seconds(5))
+    //保存每次启动后的offerset
     ssc.checkpoint("./ck1")
     KafkaUtils.createDirectStream[String, String, StringDecoder, StringDecoder](
       ssc,

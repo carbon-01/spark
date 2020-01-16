@@ -1,11 +1,578 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce906be-a640-4f37-ae22-9a8112342141" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test05.scala" afterDir="false" />
+    <list default="true" id="0ce906be-a640-4f37-ae22-9a8112342141" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/NOTICE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/contrib/zkperl/t/24_watch_tie.t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/contrib/zktreeutil/src/ZkAdaptor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/dist-maven/zookeeper-3.4.10-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/docs/api/org/apache/zookeeper/class-use/AsyncCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/docs/api/org/apache/zookeeper/data/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/docs/api/org/apache/zookeeper/server/quorum/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/docs/api/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/c/configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/c/tests/LibCSymTable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/contrib/huebrowser/zkui/src/zkui/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/contrib/rest/src/java/org/apache/zookeeper/server/jersey/resources/RuntimeExceptionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/contrib/zkperl/t/60_watch.t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/contrib/zkpython/src/examples/watch_znode_for_changes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/contrib/zkpython/src/packages/rpm/spec/zkpython.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/java/generated/org/apache/zookeeper/server/persistence/FileHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/java/main/org/apache/zookeeper/server/SessionTrackerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/java/main/org/apache/zookeeper/server/quorum/Election.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/java/main/org/apache/zookeeper/server/quorum/auth/SaslQuorumServerCallbackHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/java/test/org/apache/zookeeper/server/quorum/auth/QuorumAuthTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/recipes/lock/src/c/src/zoo_lock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R0MPX5F.资料/zookeeper-3.4.10/src/recipes/lock/test/org/apache/zookeeper/recipes/lock/ZNodeNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2901643867-969961696-4152520781-1001/$R9FYB20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.dashboard.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.debug.core/.launches/DataTransferDriver.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.debug.core/.launches/ETLTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.jdt.core/3644894588.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_19.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/HBase/src/main/java/com/atguigu/hbase/mr2/DataTransferMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/HDFS/src/test/java/com/atguigu/hdfs/test/TestHDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/HIVE/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/HIVE/src/main/java/com/atguigu/guli/ETLDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/MapReduce/src/main/java/com/atguigu/mr/flowbean/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/MapReduce/src/main/java/com/atguigu/mr/orderbean/OrderBeanReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/MapReduce/target/classes/com/atguigu/mr/orderbean/OrderBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/MapReducer/target/classes/com/atgui/mr/example/ExamplesReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/mrinput/index/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Flume/0830/11月30日FlumeDay01/agentconfs/3.spoolingdirsoruce-hdfssink" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Flume/2.资料/03_扩展资料/flume的memeryChannel中transactionCapacity和sink的batchsize需要注意事项 - CSDN博客_files/ccpm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Flume/2.资料/03_扩展资料/flume的memeryChannel中transactionCapacity和sink的batchsize需要注意事项 - CSDN博客_files/feedLoading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Flume/2.资料/03_扩展资料/flume的memeryChannel中transactionCapacity和sink的batchsize需要注意事项 - CSDN博客_files/saved_resource(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/0830/12月6日HBaseDay01/7.数据操作.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/0830/12月9日HBaseDay03/9.Master的高可用.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/0830/12月9日HBaseDay03/HBase/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/2.资料/hive编译/lib/asm-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/2.资料/hive编译/lib/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/2.资料/hive编译/lib/jaxb-impl-2.2.3-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/HBase/2.资料/hive编译/lib/mysql-connector-java-5.1.27-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月13日HadoopDay02/21.上传和下载.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月13日HadoopDay02/HDFS/src/test/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月15日HadoopDay03/3.HDFS写数据流程.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月15日HadoopDay03/6.网络拓扑距离.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月16日HadoopDay04/MapReduce/target/classes/META-INF/maven/com.atguigu/MapReduce/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月19日HadoopDay06/MapReduce/src/main/java/com/atguigu/mr/flowbean/FlowBeanDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月19日HadoopDay06/MapReduce/target/classes/com/atguigu/mr/custominputformat/MyInputFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月20日HadoopDay07/MapReduce/src/main/java/com/atguigu/mr/custominputformat/MyReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月20日HadoopDay07/MapReduce/src/main/java/com/atguigu/mr/flowbean/partitioner/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月20日HadoopDay07/MapReduce/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月20日HadoopDay07/MapReduce/target/classes/com/atguigu/mr/customoutputformat/MyRecordWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/0830/11月20日HadoopDay07/MapReduce/target/classes/com/atguigu/mr/topn/MyComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.6.0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/common/lib/commons-codec-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/hdfs/lib/netty-3.6.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/httpfs/tomcat/bin/tomcat-native.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/httpfs/tomcat/lib/catalina-ha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/httpfs/tomcat/webapps/webhdfs/WEB-INF/classes/org/apache/hadoop/fs/http/server/FSOperations$FSHomeDir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/httpfs/tomcat/webapps/webhdfs/WEB-INF/classes/org/apache/hadoop/fs/http/server/FSOperations$FSSetOwner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/httpfs/tomcat/webapps/webhdfs/WEB-INF/lib/jersey-json-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/hadoop-2.7.2/share/hadoop/yarn/hadoop-yarn-common-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/jar/aws-java-sdk-1.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/jar/hadoop-datajoin-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/02_jar包/03_linux编译过的hadoop jar包/jar/hadoop-yarn-applications-unmanaged-am-launcher-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/MapReduce作业Uber模式介绍_搜狐科技_搜狐网_files/59ca8166N2ed621e7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/NTP服务器_百度百科_files/wh.js.下载" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/6组/relationfriend/lib/commons-daemon-1.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/6组/relationfriend/lib/jasper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/6组/relationfriend/lib/zookeeper-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/6组/relationfriend/src/Reducer/FriendsReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/Test1218/bin/cn/nyzc/mapjoin/Bean02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/Test1218/lib/catalina-tribes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/2.资料/04_扩展资料/找共同好友资料/friends/GroupBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/mrinput/groupcomparator/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hadoop/mrinput/myMROutput/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/0830/11月23日HIVE/20.hive默认不支持update和delete.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/0830/11月25日HiveDay01/2.注意建表时设置表的格式.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/0830/11月29日HiveDay04/Hive/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/01_jar/mysql-libs/mysql-connector-java-5.1.27/src/com/mysql/jdbc/SocketMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/01_jar/mysql-libs/mysql-connector-java-5.1.27/src/com/mysql/jdbc/configs/3-0-Compat.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/01_jar/mysql-libs/mysql-connector-java-5.1.27/src/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/01_jar/mysql-libs/mysql-connector-java-5.1.27/src/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/01_jar/mysql-libs/mysql-connector-java-5.1.27/src/com/mysql/jdbc/exceptions/MySQLTransientException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/01_jar/mysql-libs/mysql-connector-java-5.1.27/src/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/AdminManual MetastoreAdmin - Apache Hive - Apache Software Foundation_files/default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/HivePlugins - Apache Hive - Apache Software Foundation_files/batch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive、Hbase、mysql区别 - vipyeshuai的博客 - CSDN博客_files/1_vipyeshuai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive、Hbase、mysql区别 - vipyeshuai的博客 - CSDN博客_files/notify.js.下载" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive、Hbase、mysql区别 - vipyeshuai的博客 - CSDN博客_files/u=3974595571,3507732741&amp;fm=76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive学习笔记 --- Array, Map, Struct类型使用 - 杨鑫newlife的专栏 - CSDN博客_files/20151123180322317" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive常用函数大全（一）（关系_数学_逻辑_数值_日期_条件_字符串_集合统计_复杂类型） - 琴弦上、漫步 - CSDN博客_files/pr.js.下载" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive常用函数大全（一）（关系_数学_逻辑_数值_日期_条件_字符串_集合统计_复杂类型） - 琴弦上、漫步 - CSDN博客_files/u=466659704,3376336377&amp;fm=76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/Hive常用函数大全（一）（关系_数学_逻辑_数值_日期_条件_字符串_集合统计_复杂类型） - 琴弦上、漫步 - CSDN博客_files/u=514757680,3152058626&amp;fm=76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/hive的查询注意事项以及优化总结 . - 茄子_2008 - 博客园_files/bundle-StylePink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/抽象语法树ast_百度百科_files/060828381f30e9246ee0eb864f086e061c95f7c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/数据仓库_百度百科_files/swfObject_00526c3.js.下载" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Hive/2.资料/02_扩展资料/数据仓库_百度百科_files/userInfo-n_7e90184.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Kafka/0830/12月4日KafkaDay02/Kafka/target/classes/com/atguigu/kafka/component/MyProducer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Phoenix/0830/12月10日phoenix/6.使用Phoenix进行简单的增删改查.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day02_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter02/Scala05_Name1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day02_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter02/Scala10_DataType2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day02_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter05/Scala03_Function3_Nightmare$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day03_Scala/31 - Scala函数式编程 - lazy.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day03_Scala/scala-190830/src/main/java/com/atguigu/bigdata/java/sz/TestTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day03_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter02/Scala6_String.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day03_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter04/Scala03_Logic_while.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day03_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter05/Scala01_Function1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day03_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day04_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter05/Scala09_Function9_Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day04_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter06/Scala05_Class1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day04_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter06/Scala25_Object11_Enum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day04_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day04_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Memory$class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day04_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/User08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/51 - Scala面向对象 - 数组.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/src/main/java/com/atguigu/bigdata/java/sz/TestString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/src/main/java/com/atguigu/bigdata/java/sz/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter01/Scala02_Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter04/Scala03_Logic_while.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/MyTrait18$class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Scala09_Object4$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Scala11_Object6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/java/util/HashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala10_Tuple$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day05_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala13_Method1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day06_Scala/scala-190830/src/main/java/com/atguigu/bigdata/java/sz/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day06_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter07/Scala19_Method4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day06_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter05/Scala03_Function3_Nightmare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day06_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala18_Method3$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter06/Scala21_Trait4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/target/classes/com/atguigu/bigdata/java/sz/Dept2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/target/classes/com/atguigu/bigdata/java/sz/H.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/target/classes/com/atguigu/bigdata/java/sz/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/target/classes/com/atguigu/bigdata/java/sz/TestOverwrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala16_WordCount1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/day07_Scala/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala20_Method5$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/src/main/java/com/atguigu/bigdata/java/sz/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter02/Scala11_DataType3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/src/main/scala/com/atguigu/bigdata/scala/sz/chapter07/Scala07_Set.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/java/sz/E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/Scala_Req$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter02/Scala8_DataType$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Memory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Scala19_Trait2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Scala20_Trait3$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter06/Scala21_Trait4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala09_Map1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter07/Scala16_WordCount1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter08/Scala04_Match3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Scala/0830/scala-190830/target/classes/com/atguigu/bigdata/scala/sz/chapter09/Scala01_Exception$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/Sqoop/0830/12月10日sqoop/17.向hbase导入数据.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/0830/12月13日数仓Day03/Flume-interceptor/target/classes/com/atguigu/flume/interceptor/ETLInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/0830/12月14日数仓Day04/ods_log.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/0830/12月16日数仓Day05/hive-functions/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/0830/12月17日数仓Day06/8.流失用户.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/0830/12月20日数仓Day08/4.品牌复够率分析.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/0830/12月20日数仓Day08/dwd_db.job" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/2__dev_null和__dev_null 2_&amp;1和2_&amp;1__dev_null - 中琦2513的猿生 - CSDN博客_files/bwordcom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/2__dev_null和__dev_null 2_&amp;1和2_&amp;1__dev_null - 中琦2513的猿生 - CSDN博客_files/content_toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/2__dev_null和__dev_null 2_&amp;1和2_&amp;1__dev_null - 中琦2513的猿生 - CSDN博客_files/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/2__dev_null和__dev_null 2_&amp;1和2_&amp;1__dev_null - 中琦2513的猿生 - CSDN博客_files/ndr3h.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/Hive_10. Hive中常用的 SerDe 和 当前社区的状态 - 阿里云_files/index(3).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/JMX_百度百科_files/hm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/SQL语法——left join on 多条件 - minixuezhen的博客 - CSDN博客_files/baidu-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/SQL语法——left join on 多条件 - minixuezhen的博客 - CSDN博客_files/manifest.603a92bc4219ee818e42.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/SQL语法——left join on 多条件 - minixuezhen的博客 - CSDN博客_files/wh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/`这个符号在mysql中的作用 - 北方寒士 - 博客园_files/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/azkaban 用户权限配置 - 随遇而安的专栏 - CSDN博客_files/atom-one-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/azkaban 用户权限配置 - 随遇而安的专栏 - CSDN博客_files/blog_code-c3a0c33d5c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/azkaban 用户权限配置 - 随遇而安的专栏 - CSDN博客_files/u=508635277,10987996&amp;fm=76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/daemon()_百度百科_files/monkey.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/flume实时收集数据发送到Kafka不同topic - 云计算技术频道 - 红黑联盟_files/core(3).php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/flume实时收集数据发送到Kafka不同topic - 云计算技术频道 - 红黑联盟_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/hivesql中datediff，date_add和date_sub的用法 - qq_35958094的博客 - CSDN博客.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/hivesql中datediff，date_add和date_sub的用法 - qq_35958094的博客 - CSDN博客_files/pub_footer_1.0.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/linux安装maven - 惊涛随笔 - 博客园_files/1045444-20181119112947519-476878845.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/oltp和olap的区别 - industry2018的博客 - CSDN博客_files/3_xiaomin1991222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/union和union all用法 - 啦啦啦啦啦啦啦啦啦啦 - 博客园.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/【Hive】解析json（get_json_object） - 喜东东的博客 - CSDN博客_files/auto_dup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/【Hive】解析json（get_json_object） - 喜东东的博客 - CSDN博客_files/edu-QR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/数据仓库(二)之维度建模篇 - 知行合一 - CSDN博客_files/3_zhangziliang09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/数据仓库(二)之维度建模篇 - 知行合一 - CSDN博客_files/adx(4).php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/数据仓库(二)之维度建模篇 - 知行合一 - CSDN博客_files/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/第一篇：数据仓库概述 - 穆晨 - 博客园_files/amp-form-0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/BigData/离线电商数仓/2.资料/02_扩展资料/第三篇：数据仓库系统的实现与使用(含OLAP重点讲解) - 穆晨 - 博客园_files/icon_weibo_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月16日JavaWebDay01/5.CSS.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月16日JavaWebDay01/JavaWeb_Day01/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月19日JavaWebDay03/6.JS的简介.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月19日JavaWebDay03/JavaWeb_Day3/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月19日JavaWebDay03/JavaWeb_Day3/build/classes/com/atguigu/web/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月21日JavaWebDay04/JavaWeb_Day4/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月21日JavaWebDay04/JavaWeb_Day4/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月22日Spring/JavaWeb_Day4/src/com/atguigu/web/listener/MyLinstener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月22日Spring/Spring/src/com/atguigu/spring/bean/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月23日SpringMVC/5.配置视图解析器简化页面地址的书写.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月25日Maven/1.复习.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月25日Maven/7.Maven项目结构.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月25日Maven/SpringMVC/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月25日Maven/示例项目/HelloMaven/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/Mybatis/mybatis官方中文文档/mybatis – MyBatis 3 _ 入门_files/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/Mybatis/mybatis官方中文文档/mybatis – MyBatis 3 _ 日志_files/apache-maven-fluido-1.5.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/Mybatis/mybatis官方中文文档/mybatis – MyBatis 3 _ 日志_files/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/Mybatis/mybatis官方中文文档/mybatis – MyBatis 3 _ 简介.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/SpringBoot/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/mybatis官方中文文档/mybatis – MyBatis 3 _ Java API_files/apache-maven-fluido-1.5.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/mybatis官方中文文档/mybatis – MyBatis 3 _ Java API_files/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/mybatis官方中文文档/mybatis – MyBatis 3 _ 日志.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月26日SpringBoot/mybatis官方中文文档/mybatis – MyBatis 3 _ 配置_files/apache-maven-fluido-1.5.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/10月28日LinuxDay01/主机名的命名.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/11月02日RedisDay02/18.练习之秒杀使用乐观锁解决超卖.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/11月02日RedisDay02/seckill/resource/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/0830/11月03日RedisDay03/主从和哨兵模式配置文件/6380.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/legal/Spring_Tool_Suite_Bundle_Jun_30_2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/base-instance/conf/wrapper.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/lib/aws-java-sdk-core-1.11.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/templates/base-tomcat-7/webapps/manager/WEB-INF/jsp/403.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/templates/base-tomcat-7/webapps/manager/images/void.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/templates/base-tomcat-85/conf/logging-fragment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/templates/base-tomcat-85/webapps/manager/images/asf-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/templates/bio-ssl-tomcat-7/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/tomcat-7.0.78.B.RELEASE/lib/tcServer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/tomcat-8.5.15.C.RELEASE/bin/daemon.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/tomcat-8.5.15.C.RELEASE/bin/tool-wrapper.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.equinox.simpleconfigurator/bundles.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/.manager/.fileTableLock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/104/0/.cp/org/aspectj/lang/reflect/UnlockSignature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/apache/bcel/classfile/JavaClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/bridge/MessageUtil$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/util/FuzzyBoolean$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/bcel/AtAjAttributes$ReturningFormalNotDeclaredInAdviceSignatureException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/bcel/BcelAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/patterns/DeclareAnnotation$Kind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/patterns/ThisOrTargetAnnotationPointcut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/reflect/InternalUseOnlyPointcutParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/reflect/Java14GenericSignatureInformationProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/105/0/.cp/org/aspectj/weaver/tools/cache/CachedClassEntry$EntryType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/116/0/.cp/icons/full/dtool16/mark_occurrences.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/155/0/.cp/icons/full/elcl16/runlast_co.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/155/0/.cp/icons/full/etool16/profile_exc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/155/0/.cp/icons/full/ovr16/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/194/0/.cp/icons/obj16/changelog_obj.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.IJavaElementDelta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.dom.DefaultBindingResolver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.dom.IDocElement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.dom.MethodBinding" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.dom.PostfixExpression$Operator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.dom.PrimitiveType$Code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.dom.rewrite.ImportRewrite$ImportRewriteContext" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.search.IJavaSearchScope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.core.util.IFieldInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.codeassist.impl.AssistInitializer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.codeassist.select.SelectionOnQualifiedTypeReference" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.SourceElementNotifier$LocalDeclarationVisitor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.ast.ArrayTypeReference" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.ast.CaseStatement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.ast.MarkerAnnotation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.codegen.CaseLabel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.codegen.StackMapFrameCodeStream$StackDepthMarker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.compiler.lookup.ConstraintExpressionFormula" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.DeltaProcessingState" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.ImportContainerInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.ResolvedSourceType" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.SourceRefElementInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.SourceTypeElementInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.builder.BatchImageBuilder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteAnalyzer$ModifierRewriter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.dom.rewrite.SourceModifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.dom.rewrite.imports.ImportComparator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.dom.rewrite.imports.ReorderingImportAdder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.nd.db.MemoryStats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.nd.java.NdWorkspaceLocation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/303-1571297378825/org.eclipse.jdt.internal.core.search.IndexQueryRequestor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/305-1571297378825/org.eclipse.jdi.internal.jdwp.JdwpClassID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.debug.ui.IJavaDebugUIConstants" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.internal.debug.ui.actions.RetargetToggleTracepointAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.internal.debug.ui.classpath.ClasspathContentProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.internal.debug.ui.heapwalking.AllReferencesActionDelegate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.internal.debug.ui.heapwalking.AllReferencesInViewActionDelegate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.internal.debug.ui.jres.LibraryLabelProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/306-1571297378835/org.eclipse.jdt.internal.debug.ui.jres.LibraryStandin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/309-1571297378835/org.eclipse.jdt.internal.junit.launcher.JUnitMigrationDelegate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.corext.refactoring.changes.CopyPackageChange" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.corext.refactoring.rename.RenameFieldProcessor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.corext.refactoring.surround.ExceptionAnalyzer$ExceptionComparator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.corext.refactoring.tagging.INameUpdating" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.corext.refactoring.tagging.IReferenceUpdating" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.AbstractJavaElementLabelDecorator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.actions.OpenTypeInHierarchyAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.compare.JavaHistoryActionImpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog$TypeSearchRequestor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.dialogs.GenerateToStringDialog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.dialogs.TableTextCellEditor$1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.dialogs.TableTextCellEditor$2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.dialogs.TableTextCellEditor$3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.dialogs.TableTextCellEditor$4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.fix.IMultiFix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.fix.MapCleanUpOptions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingPresenter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightings$InheritedFieldHighlighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.javaeditor.selectionactions.SelectionActionMessages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.packageview.ClassPathContainer$RequiredProjectWrapper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.propertiesfileeditor.LeadingWhitespacePredicateRule$DummyDetector" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.refactoring.reorg.RenameJavaProjectWizard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.JavaElementPrefixPatternMatcher" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.correction.ClasspathFixProcessorDescriptor$1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.correction.ClasspathFixProcessorDescriptor$2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionAssistant$1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionAssistant$2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.java.JavaParameterListValidator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover$1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover$2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.spelling.engine.LocaleSensitiveSpellDictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.text.template.contentassist.SurroundWithTemplateProposal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.viewsupport.SelectionProviderMediator$InternalListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.wizards.NewPackageCreationWizard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.CreateSourceFolderAction2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.EditOutputFolderAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.ui.actions.BuildActionGroup$RefreshableViewRefreshAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.ui.actions.FindDeclarationsAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.ui.actions.FindDeclarationsInWorkingSetAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.ui.text.folding.IJavaFoldingStructureProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/2f06a4ca4dec588d4bc166391c7f4485/313-1571297378844/org.eclipse.jdt.ui.wizards.JavaCapabilityConfigurationPage$1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/51f236b8a469ed6e76e92679c5c117f4/113-1571297378665/org.eclipse.ajdt.internal.ui.actions.AddAJNatureAction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/51f236b8a469ed6e76e92679c5c117f4/113-1571297378665/org.eclipse.ajdt.internal.ui.editor.AdviceActionDelegate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/51f236b8a469ed6e76e92679c5c117f4/113-1571297378665/org.eclipse.ajdt.internal.ui.wizards.NewTypeWizardPage$InterfacesListLabelProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/c7ff8a0a591e0e90fe36069138e75f68/914-1571297379333/org.springframework.ide.eclipse.core.MessageUtils" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/c7ff8a0a591e0e90fe36069138e75f68/914-1571297379333/org.springframework.ide.eclipse.core.java.typehierarchy.TypeHierarchyElementCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/287/data/c7ff8a0a591e0e90fe36069138e75f68/914-1571297379333/org.springframework.ide.eclipse.core.type.ClassMetadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/310/0/.cp/.api_description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/310/0/.cp/org/eclipse/jdt/internal/junit/runner/DefaultClassifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/310/0/.cp/org/eclipse/jdt/internal/junit/runner/IStopListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/313/0/.cp/JavadocHoverStyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/313/0/.cp/icons/full/elcl16/gointo_toplevel_type.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/313/0/.cp/icons/full/elcl16/synced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/313/0/.cp/icons/full/etool16/opentype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/313/0/.cp/icons/full/eview16/package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/450/0/.cp/icons/new_m2_project_wizard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/52/0/.cp/META-INF/eclipse.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/556/0/.cp/icons/full/obj16/User.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/669/0/.cp/icons/full/obj16/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/669/0/.cp/icons/full/wizban/import_wiz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/672/0/.cp/icons/full/dlcl16/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/configuration/org.eclipse.osgi/688/0/.cp/icons/full/eview16/outline_co.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.e4.rcp_1.6.0.v20170612-1255/epl-v10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.ecf.core.feature_1.4.0.v20170516-2248/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.7.v20170516-2248/feature.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.emf.codegen.ecore.ui_2.13.0.v20170609-0928/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.emf.codegen.ui_2.8.0.v20170609-0928/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.emf.common_2.13.0.v20170609-0707/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.emf.databinding_1.4.0.v20170609-0928/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.emf.mapping_2.9.0.v20170609-0928/epl-v10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.equinox.p2.core.feature_1.4.0.v20170524-1345/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.equinox.p2.core.feature_1.4.0.v20170524-1345/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.jst.server_core.feature_3.4.300.v201606081655/META-INF/maven/org.eclipse.webtools.servertools/org.eclipse.jst.server_core.feature/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.402.v201503151903/META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.ws.jaxws_userdoc.feature/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.402.v201503151903/license.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.m2e.wtp.feature_1.3.2.20170517-2015/p2.inf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.mat.chart.feature_1.9.0.201906050844/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.mat.feature_1.9.0.201906050844/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.mylyn.java_feature_3.23.0.v20170411-2108/feature.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.oomph.setup.core_1.8.0.v20170531-0903/feature.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.recommenders.mylyn.rcp.feature_2.4.9.v20170613-1301/feature.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.rse.telnet_3.7.0.201704251225/feature.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.tm.terminal.connector.local.feature_4.3.0.201706140544/feature.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.eclipse.wst.web_ui.feature_3.9.0.v201706011953/META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.wst.web_ui.feature/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/features/org.springframework.ide.eclipse.boot.dash.feature_3.9.0.201707061730-RELEASE/epl-v10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/p2/org.eclipse.equinox.p2.repository/cache/-1747184149" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/p2/org.eclipse.equinox.p2.repository/cache/-452249741" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/javax.xml.rpc_1.1.0.v201209140446/plugin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/javax.xml.stream_1.0.1.v201004272200.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.apache.ant_1.10.1.v20170504-0840/etc/junit-frames.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.ajdt.examples_2.2.4.201704242114.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.cdt.core.win32.x86_64_5.4.1.201706122201/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.equinox.jsp.jasper_1.0.500.v20150119-1358.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.jst.j2ee.navigator.ui_1.1.700.v201701262104.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.jst.ws.doc.user_1.0.700.v201612121628.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20170516-2042/jars/maven-core-3.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20170516-2042/jars/wagon-file-2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.m2e.wtp.overlay_1.3.2.20170517-2015.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.mylyn.commons.notifications.core_1.15.0.v20170411-1844.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.mylyn.java.tasks_3.23.0.v20170411-2108.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.mylyn.wikitext.tracwiki_3.0.6.20170311142502.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/data/30/plugin/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.platform_4.7.0.v20170612-0950/intro-eclipse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.platform_4.7.0.v20170612-0950/intro/overviewExtensionContent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.platform_4.7.0.v20170612-0950/plugin_customization.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.recommenders.utils.rcp_2.4.9.v20170613-1301.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.ui.navigator_3.7.0.v20170418-1342.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.ui.themes_1.2.0.v20170517-0622/css/dark/e4-dark_preferencestyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.wst.jsdt.js.common_1.0.200.v201610211901.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.wst.ws.service.policy.ui_1.0.500.v201505131719.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.wst.xsl.saxon_1.0.200.v201103081755.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.zest.core_1.5.300.201606061308.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.springframework.ide.eclipse.beans.core.metadata_3.9.0.201707061730-RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.springsource.ide.eclipse.commons.browser_3.9.0.201707061630-RELEASE/org/springsource/ide/eclipse/commons/browser/javafx/JavaFxBrowserViewer$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/2.资料/sts-bundle/sts-3.9.0.RELEASE/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.0.201707061630-RELEASE/resources/welcome/common/img/logo_spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/conf/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/docs/funcspecs/fs-jndi-realm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/docs/introduction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/jsp/error/errorpge.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/jsp/jsp2/el/functions.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/jsp/jsp2/simpletag/book.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/jsp/snp/snoop.jsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/webapps/examples/jsp/xml/xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/apache-tomcat-7.0.50/work/Catalina/localhost/manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/JavaWeb/问题解答.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/Redis/verifi_code/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/Redis/verifi_code/WebContent/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/Redis/verifi_code/src/com/atguigu/utils/VerifyCodeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/aop/aspectj/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/aop/framework/AdvisorChainFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/beans/factory/annotation/Qualifier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/beans/factory/config/MapFactoryBean.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/beans/factory/parsing/SourceExtractor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/beans/propertyeditors/FileEditor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/cache/ehcache/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/context/NoSuchMessageException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/context/annotation/CommonAnnotationBeanPostProcessor.LookupElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ConditionContext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/context/annotation/EnableLoadTimeWeaving.AspectJWeaving.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/core/style/DefaultToStringStyler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/dao/annotation/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/format/support/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/http/client/AbstractClientHttpRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/http/client/AsyncClientHttpRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/http/client/support/AsyncHttpAccessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/http/client/support/HttpAccessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/http/converter/AbstractHttpMessageConverter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/http/converter/ResourceHttpMessageConverter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jca/cci/connection/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jca/cci/core/RecordExtractor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jca/work/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/core/PreparedStatementCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/core/ResultSetExtractor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/core/simple/AbstractJdbcCall.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/core/simple/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/datasource/SimpleConnectionHandle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/datasource/lookup/IsolationLevelDataSourceRouter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jdbc/datasource/lookup/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jmx/export/annotation/ManagedNotifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jmx/export/assembler/AbstractConfigurableMBeanInfoAssembler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jmx/export/notification/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jmx/export/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jmx/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jmx/support/MBeanServerFactoryBean.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/jndi/JndiPropertySource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/messaging/core/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/messaging/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/broker/AbstractSubscriptionRegistry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/messaging/support/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/mock/http/client/MockClientHttpRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/mock/web/portlet/MockPortletRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/mock/web/portlet/MockResourceURL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/orm/hibernate4/SessionHolder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/remoting/caucho/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/remoting/jaxws/SimpleHttpServerJaxWsServiceExporter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/remoting/support/RemoteInvocationBasedExporter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/scheduling/aspectj/AspectJAsyncConfiguration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/CronTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/scheduling/quartz/SchedulerAccessor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/scheduling/quartz/SchedulerFactoryBean.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/scripting/ScriptFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/transaction/TransactionUsageException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAttribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/ui/jasperreports/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/ui/jasperreports/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/util/CollectionUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/util/ObjectUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/util/comparator/BooleanComparator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/context/request/async/NoSupportAsyncWebRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/filter/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/portlet/handler/HandlerInterceptorAdapter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/portlet/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/servlet/handler/ConversionServiceExposingInterceptor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/servlet/handler/HandlerExceptionResolverComposite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/servlet/handler/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/servlet/mvc/annotation/DefaultAnnotationHandlerMapping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/socket/server/standard/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/TransportHandlingSockJsService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/TransportType.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/spring-framework-reference/html/images/callouts/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/spring-framework-reference/html/images/colorsvg/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/spring-framework-reference/html/spring-integration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/spring-framework-reference/htmlsingle/images/callouts/26.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/spring-framework-reference/htmlsingle/images/callouts/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/docs/spring-framework-reference/htmlsingle/images/callouts/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/schema/beans/spring-beans-2.5.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/SSM/01_Spring开发包/spring-framework-4.0.0.RELEASE/schema/cache/spring-cache-3.1.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datum/JavaEE/尚硅谷_郭岱_JUCV1.2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/CityInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/MockRealtimeData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/app/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/app/AreaAdsClickTop3App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/bean/AdsInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/bean/CityInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/mock/mockRealtime.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/util/MykafkaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/util/RandomNumUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/util/RandomOptions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming-project/src/main/scala/com/atguigu/realtime/util/RedisUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test06.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test07.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test08.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test09.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb1464d0-b12e-4dcb-997d-b3690729d313.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fb1464d0-b12e-4dcb-997d-b3690729d313.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054575000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054575000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054580000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054580000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054585000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054585000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054590000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054590000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054595000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/.checkpoint-1579054595000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054575000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054575000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054580000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054580000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054585000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054585000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054590000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054590000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054595000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/checkpoint-1579054595000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck1/receivedBlockMetadata/log-1579054545027-1579054605027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test03.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test05.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/src/main/scala/com/atguigu/sql/day03/Test05.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$2$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$2$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$$anonfun$createSSC$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$.class" beforeDir="false" afterPath="$PROJECT_DIR$/spark_sql/target/classes/com/atguigu/sql/day03/Test01$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +599,40 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mySQL-hadoop103" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mySQL-hadoop103" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mySQL-hadoop103" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mySQL-hadoop103" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t3: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Package Object" />
-        <option value="Scala Class" />
-        <option value="Scala Object" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Scala Object" />
+        <option value="Scala Class" />
       </list>
     </option>
   </component>
@@ -98,7 +688,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spark0830-00" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-streaming-project/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,17 +699,20 @@
       <recent name="https://github.com/zhenchao125/spark0830.git" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.realtime" />
+      <recent name="com.atguigu.realtime.mock" />
+      <recent name="com.atguigu.realtime.util" />
       <recent name="com.atguigu.spark.project" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\spark-core\src\main" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\spark-streaming-project\src\main\resources" />
       <recent name="E:\idea\src\main\resources" />
       <recent name="E:\idea\sprk-sql-project\src\main\scala\com\atuguigu\spark\sql" />
       <recent name="E:\idea\sprk-sql-project\src\main\scala" />
       <recent name="E:\idea\sprk-sql-project\src\main\resources" />
-      <recent name="E:\idea\spark-core-project02\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\idea\spark-core\src\main" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -127,9 +720,48 @@
       <command value="Scala_Package" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test05">
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test01" />
+  <component name="RunManager" selected="Application.AreaAdsClickTop3App">
+    <configuration name="AreaAdsClickTop3App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.realtime.app.AreaAdsClickTop3App" />
+      <module name="spark-streaming-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.realtime.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockRealtimeData" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.realtime.MockRealtimeData" />
+      <module name="spark-streaming-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.realtime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day02.Test04" />
+      <module name="spark_sql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sql.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test08" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test08" />
       <module name="spark_sql" />
       <extension name="coverage">
         <pattern>
@@ -141,47 +773,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test02" />
-      <module name="spark_sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.sql.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test03" />
-      <module name="spark_sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.sql.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test04 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test04" />
-      <module name="spark_sql" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.sql.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test05" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test05" />
+    <configuration name="Test09" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sql.day03.Test09" />
       <module name="spark_sql" />
       <extension name="coverage">
         <pattern>
@@ -195,11 +788,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test05" />
-        <item itemvalue="Application.Test04 (1)" />
-        <item itemvalue="Application.Test03" />
-        <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.AreaAdsClickTop3App" />
+        <item itemvalue="Application.MockRealtimeData" />
+        <item itemvalue="Application.Test09" />
+        <item itemvalue="Application.Test08" />
+        <item itemvalue="Application.Test04" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +852,8 @@
       <workItem from="1578809481085" duration="21183000" />
       <workItem from="1578874515061" duration="36198000" />
       <workItem from="1579047816553" duration="9118000" />
-      <workItem from="1579064391563" duration="10787000" />
+      <workItem from="1579064391563" duration="31863000" />
+      <workItem from="1579133339255" duration="12796000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1579058906654</created>
@@ -345,7 +939,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579082504992</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit">
+      <created>1579084943507</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579084943507</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit">
+      <created>1579084954337</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579084954337</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,10 +968,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Intentions/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578051161511" />
-    <state x="361" y="71" key="#Notifications" timestamp="1579067261618">
+    <state x="361" y="71" key="#Notifications" timestamp="1579085023204">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Notifications/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067261618" />
+    <state x="361" y="71" key="#Notifications/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579085023204" />
     <state x="361" y="71" key="#Project_Structure" timestamp="1578894384813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -373,25 +981,25 @@
     </state>
     <state x="361" y="71" key="#Scala/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578310375461" />
     <state x="361" y="71" key="#Scala/0.0.1536.824@0.0.1536.824" timestamp="1578327463047" />
-    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579083441709">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579104511610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1080" y="172" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578878332746" />
-    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579083441709" />
-    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578836597150" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579094239217" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579104511610" />
     <state x="158" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578846995436">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="158" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578819566886" />
     <state x="158" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578846995436" />
-    <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577502135638">
+    <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579089601154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577502135638" />
-    <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1578914106568">
+    <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579089601154" />
+    <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1579139723942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578914106568" />
+    <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579139723942" />
     <state x="574" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578834260193" />
     <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578206833017">
       <screen x="0" y="0" width="1536" height="824" />
@@ -402,10 +1010,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="514" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577502154769" />
-    <state x="523" y="283" width="633" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578894374585">
+    <state x="502" y="271" width="531" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579133922592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="523" y="283" width="633" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578894374585" />
+    <state x="502" y="271" width="531" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579133922592" />
+    <state x="523" y="283" width="633" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579133914495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="283" width="633" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579133914495" />
     <state x="523" y="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1578754925017" />
     <state x="530" y="187" key="#com.intellij.tools.ToolEditorDialog" timestamp="1577101758055">
       <screen x="0" y="0" width="1536" height="824" />
@@ -415,10 +1027,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1578752520257" />
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1579084943087">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1579162950408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579084943087" />
+    <state x="372" y="0" key="CommitChangelistDialog2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579162950408" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1578844595973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -432,58 +1044,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579067917543" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1579084947799">
+    <state width="1493" height="33" key="GridCell.Tab.0.bottom" timestamp="1579162786560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1557" height="141" key="GridCell.Tab.0.bottom/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578898527608" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579084947799" />
-    <state width="1493" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578933154935" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1579084947799">
+    <state width="1493" height="33" key="GridCell.Tab.0.bottom/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579162786560" />
+    <state width="1493" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579109867824" />
+    <state width="1493" height="33" key="GridCell.Tab.0.center" timestamp="1579162786560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1557" height="141" key="GridCell.Tab.0.center/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578898527608" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579084947799" />
-    <state width="1493" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578933154935" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1579084947799">
+    <state width="1493" height="33" key="GridCell.Tab.0.center/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579162786560" />
+    <state width="1493" height="187" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579109867823" />
+    <state width="1493" height="33" key="GridCell.Tab.0.left" timestamp="1579162786560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1557" height="141" key="GridCell.Tab.0.left/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578898527607" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579084947799" />
-    <state width="1493" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578933154935" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1579084947799">
+    <state width="1493" height="33" key="GridCell.Tab.0.left/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579162786560" />
+    <state width="1493" height="187" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579109867823" />
+    <state width="1493" height="33" key="GridCell.Tab.0.right" timestamp="1579162786560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1557" height="141" key="GridCell.Tab.0.right/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578898527608" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579084947799" />
-    <state width="1493" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578933154935" />
-    <state width="1493" height="355" key="GridCell.Tab.1.bottom" timestamp="1579073462311">
+    <state width="1493" height="33" key="GridCell.Tab.0.right/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579162786560" />
+    <state width="1493" height="187" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579109867823" />
+    <state width="1493" height="355" key="GridCell.Tab.1.bottom" timestamp="1579109867821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1233" height="260" key="GridCell.Tab.1.bottom/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1577513904293" />
     <state width="1493" height="355" key="GridCell.Tab.1.bottom/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579073462311" />
-    <state width="1493" height="355" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578848333745" />
-    <state width="1493" height="355" key="GridCell.Tab.1.center" timestamp="1579073462311">
+    <state width="1493" height="355" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579109867821" />
+    <state width="1493" height="355" key="GridCell.Tab.1.center" timestamp="1579109867821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1233" height="260" key="GridCell.Tab.1.center/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1577513904293" />
     <state width="1493" height="355" key="GridCell.Tab.1.center/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579073462311" />
-    <state width="1493" height="355" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578848333745" />
-    <state width="1493" height="355" key="GridCell.Tab.1.left" timestamp="1579073462311">
+    <state width="1493" height="355" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579109867821" />
+    <state width="1493" height="355" key="GridCell.Tab.1.left" timestamp="1579109867821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1233" height="260" key="GridCell.Tab.1.left/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1577513904293" />
     <state width="1493" height="355" key="GridCell.Tab.1.left/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579073462311" />
-    <state width="1493" height="355" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578848333745" />
-    <state width="1493" height="355" key="GridCell.Tab.1.right" timestamp="1579073462311">
+    <state width="1493" height="355" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579109867821" />
+    <state width="1493" height="355" key="GridCell.Tab.1.right" timestamp="1579109867821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1233" height="260" key="GridCell.Tab.1.right/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1577513904293" />
     <state width="1493" height="355" key="GridCell.Tab.1.right/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579073462311" />
-    <state width="1493" height="355" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578848333745" />
-    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1578884469438">
+    <state width="1493" height="355" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579109867821" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1579090883902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="212" height="477" key="HiddenNamespacesPopup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578884469438" />
+    <state width="212" height="477" key="HiddenNamespacesPopup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579090883902" />
     <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1578844592382" />
     <state x="270" y="109" key="SettingsEditor" timestamp="1579067172723">
       <screen x="0" y="0" width="1536" height="824" />
@@ -500,10 +1112,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577492810799" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579081959591">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579162963439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579081959591" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579162963439" />
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577095610080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -521,10 +1133,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579064681953" />
-    <state x="447" y="19" width="856" height="786" key="find.popup" timestamp="1578312957218">
+    <state x="447" y="19" width="856" height="786" key="find.popup" timestamp="1579089712011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="19" width="856" height="786" key="find.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578312957218" />
+    <state x="447" y="19" width="856" height="786" key="find.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579089712011" />
     <state x="491" y="204" key="git4idea.merge.GitPullDialog" timestamp="1579064728210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -533,22 +1145,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="600" height="424" key="javadoc.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1577259842236" />
-    <state x="-1415" y="110" key="new project wizard" timestamp="1578878439338">
-      <screen x="-1600" y="0" width="1600" height="850" />
+    <state x="178" y="107" key="new project wizard" timestamp="1579133368584">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1415" y="110" key="new project wizard/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578878439338" />
-    <state x="178" y="107" key="new project wizard/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578702653027" />
+    <state x="178" y="107" key="new project wizard/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579133368584" />
     <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578208129370" />
     <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1578918160419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" width="672" height="677" key="run.anything.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578918160419" />
     <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578829611021" />
-    <state x="444" y="84" width="672" height="678" key="search.everywhere.popup" timestamp="1578836884090">
+    <state x="444" y="84" width="672" height="678" key="search.everywhere.popup" timestamp="1579090096526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1151" y="150" width="700" height="700" key="search.everywhere.popup/-1600.0.1600.850/0.0.1536.824@-1600.0.1600.850" timestamp="1578280293306" />
-    <state x="444" y="84" width="672" height="678" key="search.everywhere.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1578709632385" />
+    <state x="444" y="84" width="672" height="678" key="search.everywhere.popup/-1600.0.1600.850/0.0.1536.824@0.0.1536.824" timestamp="1579090096526" />
     <state x="444" y="84" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578836884090" />
   </component>
   <component name="XDebuggerManager">

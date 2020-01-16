@@ -16,8 +16,8 @@ object Test02{
     val result: DStream[(String, Int)] = sourceStream
       .flatMap(_.split("\\W+")
         .map((_, 1)))
-      //开窗，步长为9s,滑动步长为6s
-      //.reduceByKeyAndWindow(_ + _, Seconds(9), slideDuration = Seconds(6))
+      //①开窗，步长为9s,滑动步长为6s
+      .reduceByKeyAndWindow(_ + _, Seconds(9), slideDuration = Seconds(6))
     //开窗，步长为9s,滑动步长为6s,计算时需要优化，通过上一次的计算结果+新增的数据-移动的数据
     //注意：使用优化需要设置checkpoint directory，保存上一次的数据
       //使用filter过滤value等于0的数据
