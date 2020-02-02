@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spark_sql" />
+        <module name="spark_core" />
         <module name="sprk-sql-project" />
         <module name="spark-core-projeck" />
         <module name="spark-streaming-project" />
         <module name="spark-core-project02" />
-        <module name="spark_core" />
       </profile>
     </annotationProcessing>
   </component>

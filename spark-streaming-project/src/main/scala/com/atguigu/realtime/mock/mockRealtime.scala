@@ -2,7 +2,7 @@ package com.atguigu.realtime.mock
 
 import java.util.Properties
 
-import com.atguigu.realtime.CityInfo
+import com.atguigu.realtime.bean.CityInfo
 import com.atguigu.realtime.util.{RandomNumUtil, RandomOptions}
 import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}
 
@@ -47,7 +47,7 @@ object MockRealtime {
   def createKafkaProducer: KafkaProducer[String, String] = {
     val props: Properties = new Properties
     // Kafka服务端的主机名和端口号
-    props.put("bootstrap.servers", "hadoop201:9092,hadoop202:9092,hadoop203:9092")
+    props.put("bootstrap.servers", "hadoop102:9092,hadoop103:9092,hadoop104:9092")
     // key序列化
     props.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer")
     // value序列化

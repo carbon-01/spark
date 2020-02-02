@@ -3,6 +3,7 @@ package com.atguigu.realtime.util
 import redis.clients.jedis.{Jedis, JedisPool, JedisPoolConfig}
 
 object RedisUtil {
+  //连接redis数据库的配置
   private val jedisPoolConfig: JedisPoolConfig = new JedisPoolConfig()
   jedisPoolConfig.setMaxTotal(100) //最大连接数
   jedisPoolConfig.setMaxIdle(20) //最大空闲
@@ -10,7 +11,7 @@ object RedisUtil {
   jedisPoolConfig.setBlockWhenExhausted(true) //忙碌时是否等待
   jedisPoolConfig.setMaxWaitMillis(5000) //忙碌时等待时长 毫秒
   jedisPoolConfig.setTestOnBorrow(true) //每次获得连接的进行测试
-  jedisPoolConfig.setTestOnReturn(true)
+  jedisPoolConfig.setTestOnReturn(true) //每次返回数据进行测试
   private val jedisPool: JedisPool = new JedisPool(jedisPoolConfig, "hadoop103", 6379)
   // 直接得到一个 Redis 的连接
   def getJedisClient: Jedis = jedisPool.getResource
